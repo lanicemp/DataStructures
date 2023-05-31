@@ -25,8 +25,11 @@ console.log('personAge', person.age)
 
 //Create and empty object
 let soonFullObject = {}
+// adding key and values to an  empty opbect using brackets
+
 soonFullObject["name"] = 'Was Empty'
 console.log(soonFullObject)
+// adding key and values to an  empty opbect using dot notation
 soonFullObject.age = 2
 console.log(soonFullObject)
 soonFullObject.id = 678
